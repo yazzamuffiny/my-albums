@@ -1,0 +1,141 @@
+[{
+        "id": 1,
+        "artist": "Arctic Monkeys",
+        "album_name": "Whatever People Say I Am, That's What I'm Not",
+        "release": "2006",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/8/88/Whatever_People_Say_I_Am%2C_That%27s_What_I%27m_Not_%282006_Arctic_Monkeys_album%29.jpg"
+    },
+    {
+        "id": 2,
+        "artist": "Twenty One Pilots",
+        "album_name": "Blurryface",
+        "release": "2015",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/7/7d/Blurryface_by_Twenty_One_Pilots.png"
+    },
+    {
+        "id": 3,
+        "artist": "Hozier",
+        "album_name": "Hozier",
+        "release": "2014",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Hozier_-_Hozier.png"
+    },
+    {
+        "id": 4,
+        "artist": "The Killers",
+        "album_name": "Direct Hits",
+        "release": "2013",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/e/ea/The_Killers_-_Direct_Hits.png"
+    },
+    {
+        "id": 5,
+        "artist": "Pierce the Veil",
+        "album_name": "Collide with the Sky",
+        "release": "2012",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/9/99/CollidewiththeSkycover.jpg"
+    }, {
+        "id": 6,
+        "artist": "Gorillaz",
+        "album_name": "Demon Days",
+        "release": "2005",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Gorillaz_Demon_Days.PNG/220px-Gorillaz_Demon_Days.PNG"
+    },
+    {
+        "id": 7,
+        "artist": "The Wombats",
+        "album_name": "A Guide to Love, Loss & Desperation",
+        "release": "2007",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Wombats_-_A_Guide_to_Love%2C_Loss_and_Desperation.jpg"
+    },
+    {
+        "id": 8,
+        "artist": "SZA",
+        "album_name": "Ctrl",
+        "release": "2017",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/b/bf/SZA_-_Ctrl_cover.png"
+    },
+    {
+        "id": 9,
+        "artist": "The Kooks",
+        "album_name": "Inside In / Inside Out",
+        "release": "2006",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/f/f0/Insideininsideout.jpg"
+    },
+    {
+        "id": 10,
+        "artist": "My Chemical Romance",
+        "album_name": "The Black Parade",
+        "release": "2006",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/e/ea/Blackparadecover.jpg"
+    },
+    {
+        "id": 11,
+        "artist": "Falling in Reverse",
+        "album_name": "Fashionably Late",
+        "release": "2013",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/8/8b/Fashionably_Late_Cover.jpg"
+    },
+    {
+        "id": 12,
+        "artist": "The Orion Experience",
+        "album_name": "The Orion Experience",
+        "release": "2006",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02daccecee61b39522fbae9884"
+    },
+    {
+        "id": 13,
+        "artist": "Three Days Grace",
+        "album_name": "One-X",
+        "release": "2006",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/c/cf/One_X.png"
+    },
+    {
+        "id": 14,
+        "artist": "Mindless Self Indulgence",
+        "album_name": "You'll Rebel to Anything",
+        "release": "2005",
+        "cover_img": "https://m.media-amazon.com/images/I/712-a9LLGNL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 15,
+        "artist": "YUNGBLUD",
+        "album_name": "21st Century Liability",
+        "release": "2018",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/b/b5/21st_Century_Liability_%28Artwork%29.jpg"
+    },
+    {
+        "id": 16,
+        "artist": "Motionless in White",
+        "album_name": "Disguise",
+        "release": "2019",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/b/b1/DisguiseMIWcover.jpg"
+    },
+    {
+        "id": 17,
+        "artist": "Linkin Park",
+        "album_name": "Hybrid Theory",
+        "release": "2000",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/2/2a/Linkin_Park_Hybrid_Theory_Album_Cover.jpg"
+    },
+    {
+        "id": 18,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME",
+        "album_name": "1981 Extended Play",
+        "release": "2018",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/e/e9/IDKHow_-_1981_Extended_Play.jpg"
+    },
+    {
+        "id": 19,
+        "artist": "Amy Winehouse",
+        "album_name": "Back to Black",
+        "release": "2006",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/6/67/Amy_Winehouse_-_Back_to_Black_%28album%29.png"
+    },
+    {
+        "id": 20,
+        "artist": "Green Day",
+        "album_name": "Dookie",
+        "release": "1994",
+        "cover_img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Green_Day_-_Dookie_cover.jpg/220px-Green_Day_-_Dookie_cover.jpg"
+    }
+
+]
